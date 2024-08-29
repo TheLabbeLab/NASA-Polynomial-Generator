@@ -1,1 +1,1 @@
-A set of scripts to pre-process and post-process MESS files!
+A script to genrate NASA-7 Polynomials from Thermp Output
