@@ -1,3 +1,7 @@
+# Labbe Lab propoerty
+# Coder: Pray Shah
+# Generates NASA-7 Polynomial Fit!
+
 import os
 import re
 import numpy as np
